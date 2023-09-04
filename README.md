@@ -17,16 +17,6 @@
 </br>
 
 ## 📌 Top Languages
-<br>
-<div align="center">
-    <div>
-        <a href="https://github.com/makifkeskin">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=makifkeskin&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
-        </a>
-
-
-<!-- otherrss -->
-</br>
 
  <a href="https://github.com/makifkeskin">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makifkeskin&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
